@@ -143,7 +143,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 ## License
 
-This project is licensed under the MIT License. See `LICENSE` for details.
+This project is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
 
 ## Contact
 For questions or suggestions, please contact:
